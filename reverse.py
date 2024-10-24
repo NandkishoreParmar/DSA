@@ -20,7 +20,7 @@ print(rev1)
 # Space Complexity: O(n)
 
 # -------------------------------3rd way -----------------------------------
-
+# optimize way 
 def reverse(arr,n):
     i = 0
     j = n-1
